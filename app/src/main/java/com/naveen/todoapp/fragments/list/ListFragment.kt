@@ -1,10 +1,11 @@
-package com.naveen.todoapp
+package com.naveen.todoapp.fragments.list
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import com.naveen.todoapp.R
 
 class ListFragment : Fragment() {
 
